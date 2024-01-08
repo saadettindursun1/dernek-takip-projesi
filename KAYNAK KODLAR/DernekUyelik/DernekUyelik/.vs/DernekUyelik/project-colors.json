@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ec5a71c-539b-4c93-925a-5aed1cfdc13d": {
+      "ProjectGuid": "9ec5a71c-539b-4c93-925a-5aed1cfdc13d",
+      "DisplayName": "DernekUyelik",
+      "ColorIndex": 0
+    },
+    "40ada75d-b8d6-42df-8e08-146a7b9acd24": {
+      "ProjectGuid": "40ada75d-b8d6-42df-8e08-146a7b9acd24",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 1
+    },
+    "3056b8d9-3cf0-4bda-a1bd-8339014e1401": {
+      "ProjectGuid": "3056b8d9-3cf0-4bda-a1bd-8339014e1401",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "ca46f91d-ce64-4227-a17d-146387e6c220": {
+      "ProjectGuid": "ca46f91d-ce64-4227-a17d-146387e6c220",
+      "DisplayName": "BussinessLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
